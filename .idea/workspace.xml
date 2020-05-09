@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db2f70c2-ea63-4864-8c61-987afc0436a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\LocalRepository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\IDEA 2019.1\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="11" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y0Q4K8FZN9YJZDNUPPWsw9FBAW" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HrManage" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WorkSpace\java-learn\jvm-learn" />
+      <recent name="E:\WorkSpace\java-learn\java-learn-javase\src\main\java\com" />
+      <recent name="E:\WorkSpace\java-learn\java-learn-javase" />
+      <recent name="E:\WorkSpace\java-learn\java-learn-javase\src" />
+      <recent name="E:\WorkSpace\java-learn" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode_offer.数组中数字出现的次数_56.Main" />
+      <module name="offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode_offer.数组中数字出现的次数_56.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newcode_offer.把数组排成最小的数.Main" />
+      <module name="offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.newcode_offer.把数组排成最小的数.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.最长回文子串_5.Main" />
+      <module name="offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.最长回文子串_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode_offer.滑动窗口最大值_59.Main" />
+      <module name="offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode_offer.滑动窗口最大值_59.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode_offer.把字符串转换成整数_67.Main" />
+      <module name="offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode_offer.把字符串转换成整数_67.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_NON_PUBLIC" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db2f70c2-ea63-4864-8c61-987afc0436a5" name="Default Changelist" comment="" />
+      <created>1582076843452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582076843452</updated>
+      <workItem from="1582076853572" duration="16211000" />
+      <workItem from="1582102837951" duration="356000" />
+      <workItem from="1582118435539" duration="2944000" />
+      <workItem from="1582199291703" duration="4607000" />
+      <workItem from="1582264475690" duration="3682000" />
+      <workItem from="1582269798678" duration="8091000" />
+      <workItem from="1582293932990" duration="82000" />
+      <workItem from="1582339329713" duration="1673000" />
+      <workItem from="1582380206646" duration="702000" />
+      <workItem from="1582433721854" duration="139000" />
+      <workItem from="1582438141567" duration="980000" />
+      <workItem from="1582511340760" duration="488000" />
+      <workItem from="1582514363067" duration="979000" />
+      <workItem from="1582696933681" duration="195000" />
+      <workItem from="1582771121126" duration="254000" />
+      <workItem from="1582784376501" duration="3140000" />
+      <workItem from="1582986647778" duration="1295000" />
+      <workItem from="1583030445142" duration="1257000" />
+      <workItem from="1583231484164" duration="740000" />
+      <workItem from="1583237558162" duration="846000" />
+      <workItem from="1583292033273" duration="11778000" />
+      <workItem from="1583402860297" duration="9454000" />
+      <workItem from="1583475913284" duration="1364000" />
+      <workItem from="1583485333967" duration="2355000" />
+      <workItem from="1583593985883" duration="1974000" />
+      <workItem from="1583647957291" duration="18382000" />
+      <workItem from="1583718245901" duration="523000" />
+      <workItem from="1583739307818" duration="8672000" />
+      <workItem from="1583811617819" duration="3296000" />
+      <workItem from="1583887617580" duration="859000" />
+      <workItem from="1583904457921" duration="4961000" />
+      <workItem from="1583935033290" duration="2221000" />
+      <workItem from="1584235751592" duration="83000" />
+      <workItem from="1584235992051" duration="212000" />
+      <workItem from="1584243549981" duration="8700000" />
+      <workItem from="1584320711502" duration="2733000" />
+      <workItem from="1584335182119" duration="419000" />
+      <workItem from="1584335627926" duration="6018000" />
+      <workItem from="1584431566395" duration="3291000" />
+      <workItem from="1584434882191" duration="2696000" />
+      <workItem from="1584454543654" duration="3851000" />
+      <workItem from="1584776001867" duration="3659000" />
+      <workItem from="1584790603148" duration="13153000" />
+      <workItem from="1584810546326" duration="487000" />
+      <workItem from="1584838941684" duration="11532000" />
+      <workItem from="1584927594577" duration="46000" />
+      <workItem from="1584929312041" duration="98000" />
+      <workItem from="1585399885906" duration="808000" />
+      <workItem from="1586005975397" duration="8465000" />
+      <workItem from="1586049771189" duration="1013000" />
+      <workItem from="1586054024562" duration="6596000" />
+      <workItem from="1586251380396" duration="11159000" />
+      <workItem from="1586306255923" duration="20554000" />
+      <workItem from="1586357043539" duration="1189000" />
+      <workItem from="1586395098892" duration="4169000" />
+      <workItem from="1586413731293" duration="4026000" />
+      <workItem from="1586420674915" duration="2163000" />
+      <workItem from="1586427547677" duration="8563000" />
+      <workItem from="1586438354930" duration="1733000" />
+      <workItem from="1586481505870" duration="27032000" />
+      <workItem from="1586581790800" duration="11484000" />
+      <workItem from="1587345331535" duration="10768000" />
+      <workItem from="1587617911130" duration="7859000" />
+      <workItem from="1587689085762" duration="376000" />
+      <workItem from="1587689485970" duration="6426000" />
+      <workItem from="1587701590647" duration="13040000" />
+      <workItem from="1587791689348" duration="8928000" />
+      <workItem from="1587824902446" duration="1198000" />
+      <workItem from="1587864115630" duration="4506000" />
+      <workItem from="1588036267360" duration="18232000" />
+      <workItem from="1588065535241" duration="1021000" />
+      <workItem from="1588220130969" duration="5207000" />
+      <workItem from="1588300521141" duration="4957000" />
+      <workItem from="1588385277947" duration="2993000" />
+      <workItem from="1588397907118" duration="950000" />
+      <workItem from="1588469337763" duration="9564000" />
+      <workItem from="1588813494034" duration="792000" />
+      <workItem from="1588901131928" duration="3013000" />
+      <workItem from="1589011416849" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="525" y="88" width="583" height="672" key="#Demo01" timestamp="1584335911741">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="525" y="88" width="583" height="672" key="#Demo01/0.0.1536.864@0.0.1536.864" timestamp="1584335911741" />
+    <state x="477" y="96" key="#Demo02" timestamp="1584335978260">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="477" y="96" key="#Demo02/0.0.1536.864@0.0.1536.864" timestamp="1584335978260" />
+    <state x="384" y="68" key="#HTTP_Proxy" timestamp="1584434582626">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="384" y="68" key="#HTTP_Proxy/0.0.1536.864@0.0.1536.864" timestamp="1584434582626" />
+    <state x="361" y="70" width="814" height="730" key="#Intentions" timestamp="1583651360451">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" width="814" height="730" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1583651360451" />
+    <state x="468" y="108" key="#Main_(5)" timestamp="1587803238367">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="468" y="108" key="#Main_(5)/0.0.1536.864@0.0.1536.864" timestamp="1587803238367" />
+    <state x="361" y="74" key="#Project_Structure" timestamp="1584335797654">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1583814841520" />
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1584335797654" />
+    <state x="594" y="257" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1586395283652">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="594" y="257" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1536.824@0.0.1536.824" timestamp="1586395283652" />
+    <state x="223" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584335990166">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1584335990166" />
+    <state x="510" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582274052619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1582274052619" />
+    <state x="521" y="273" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1587689577787">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="521" y="273" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.864@0.0.1536.864" timestamp="1587689577787" />
+    <state x="611" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1584321617415">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="611" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1583936455056" />
+    <state x="611" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1584321617415" />
+    <state x="449" y="161" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584251732091">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="161" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1584251732091" />
+    <state x="474" y="278" width="588" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583739820898">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="474" y="278" width="588" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1583739820898" />
+    <state x="454" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583935107207">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="454" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1583935107207" />
+    <state x="499" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583907258609">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582202968679" />
+    <state x="499" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1583907258609" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1586327975340">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1586327975340" />
+    <state x="888" y="161" key="FileChooserDialogImpl" timestamp="1588308805023">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586441944798" />
+    <state x="888" y="161" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1588308805023" />
+    <state width="1537" height="317" key="GridCell.Tab.0.bottom" timestamp="1588904499246">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="264" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586516239911" />
+    <state width="1537" height="317" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1588904499246" />
+    <state width="1537" height="317" key="GridCell.Tab.0.center" timestamp="1588904499246">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="264" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586516239911" />
+    <state width="1537" height="317" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1588904499246" />
+    <state width="1537" height="317" key="GridCell.Tab.0.left" timestamp="1588904499246">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="264" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586516239911" />
+    <state width="1537" height="317" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1588904499246" />
+    <state width="1537" height="317" key="GridCell.Tab.0.right" timestamp="1588904499246">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="264" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586516239911" />
+    <state width="1537" height="317" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1588904499246" />
+    <state x="166" y="130" width="1164" height="710" key="SettingsEditor" timestamp="1588220622573">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="295" y="50" width="1164" height="710" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586493563848" />
+    <state x="166" y="130" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1588220622573" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1582267103682">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1582267103682" />
+    <state x="524" y="279" key="cloudConfig.PluginsDialog" timestamp="1587689614428">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="524" y="279" key="cloudConfig.PluginsDialog/0.0.1536.864@0.0.1536.864" timestamp="1587689614428" />
+    <state x="524" y="279" key="cloudConfig.SelfSettingsDialog" timestamp="1587689467351">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="524" y="279" key="cloudConfig.SelfSettingsDialog/0.0.1536.864@0.0.1536.864" timestamp="1587689467351" />
+    <state width="744" height="862" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1584435077179">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="744" height="862" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.0.1536.864@0.0.1536.864" timestamp="1584435077179" />
+    <state x="93" y="93" width="1350" height="638" key="dock-window-1" timestamp="1583667217045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1583667217045" />
+    <state width="406" height="205" key="documentation.popup.size" timestamp="1587347294858">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="406" height="205" key="documentation.popup.size/0.0.1536.864@0.0.1536.864" timestamp="1587347294858" />
+    <state x="183" y="54" key="new project wizard" timestamp="1586077139858">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="130" y="171" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1583814832610" />
+    <state x="183" y="54" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1586077139858" />
+    <state x="425" y="196" width="672" height="677" key="run.anything.popup" timestamp="1588469873819">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1586493697849" />
+    <state x="425" y="196" width="672" height="677" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1588469873819" />
+    <state x="431" y="152" width="672" height="556" key="search.everywhere.popup" timestamp="1588385944424">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586504927069" />
+    <state x="431" y="152" width="672" height="556" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1588385944424" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/java-learn-juc(multiple-thread)/src/main/java/com/kyriexu/JUCMultiThread/WaiteTest.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-learn-juc(multiple-thread)/src/main/java/com/kyriexu/JUCMultiThread/WaiteTest.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-learn-juc(multiple-thread)/src/main/java/com/kyriexu/JUCMultiThread/WaiteTest.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-learn-juc(multiple-thread)/src/main/java/com/kyriexu/JUCMultiThread/WaiteTest.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-learn-juc(multiple-thread)/src/main/java/com/kyriexu/JUCMultiThread/WaiteTest.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-learn-juc(multiple-thread)/src/main/java/com/kyriexu/JUCMultiThread/WaiteTest.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-learn-juc(multiple-thread)/src/main/java/com/kyriexu/JUCMultiThread/WaiteTest.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-learn-juc(multiple-thread)/src/main/java/com/kyriexu/JUCMultiThread/WaiteTest.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-learn-juc(multiple-thread)/src/main/java/com/kyriexu/JUCMultiThread/WaiteTest.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-learn-juc(multiple-thread)/src/main/java/com/kyriexu/JUCMultiThread/WaiteTest.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/offer/src/main/java/com/newcode_offer/字符串的排列/Main.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/offer/src/main/java/com/leetcode_offer/数组中数字出现的次数_56/Main.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

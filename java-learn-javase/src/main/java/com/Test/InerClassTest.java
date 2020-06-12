@@ -34,6 +34,53 @@ public class InerClassTest {
     }
 }
 
+
+class Circle {
+    private double radius = 0;
+    public static int count =1;
+    private static int a=1;
+
+    public Circle(double radius) {
+        this.radius = radius;
+    }
+
+    class Draw {     //内部类
+        public void drawSahpe() {
+            System.out.println(radius);  //外部类的private成员
+            System.out.println(count);   //外部类的静态成员
+            System.out.println(a);
+        }
+    }
+
+    static class Draw1{
+        // 静态内部类可以有静态属性
+        private static int c = 1;
+        public void drawSahpe() {
+            // System.out.println(radius); 不可访问普通的属性
+            System.out.println(count);   //外部类的静态成员
+            System.out.println(c); // 内部类的静态成员
+            System.out.println(a); //外部类的静态成员
+        }
+    }
+
+    class Draw2{
+        private int a=1;
+        // 内部类不能有静态属性
+        // private static int b = 2;
+        public void drawSahpe() {
+            class Draw3{
+            //    这个是局部内部类
+                public void method(){
+                    // 可以访问外部类的私有属性
+                    System.out.println(a);
+                }
+            }
+        }
+    }
+}
+
+
+
 class TestA{
     public static void main(String[] args){
         final List<String> urls=new ArrayList<>();

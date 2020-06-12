@@ -10,6 +10,7 @@ import java.lang.reflect.Method;
  * @date 2020/2/8 20:22
  **/
 public class CusInterceptor implements MethodInterceptor {
+    @Override
     public Object intercept(Object o, Method method, Object[] objects, MethodProxy methodProxy) throws Throwable {
         log("方法执行前调用日志");
         return methodProxy.invokeSuper(o, objects);

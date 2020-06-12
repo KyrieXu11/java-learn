@@ -19,7 +19,7 @@ public class VolatileDTest01 {
 
     public static void main(String[] args) throws InterruptedException {
         new Thread(() -> {
-            while (num==0) {
+            while (num == 0) {
 
             }
         }).start();

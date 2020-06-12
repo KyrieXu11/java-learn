@@ -14,8 +14,8 @@ public class ThreadLocalTest {
             final int tmp = i;
             new Thread(()->{
                 threadLocal.set(tmp);
-                System.out.println(threadLocal.get());
-            }).start();
+                System.out.printf("%s,%s\n",Thread.currentThread().getName(),threadLocal.get());
+            },i+"").start();
 
         }
     }

@@ -67,5 +67,52 @@ public class BaseTest {
 }
 
 interface It {
-    abstract void show();
+    public abstract void show();
+    public static final int a = 1;
+    public static int b=2;
+    public final int c=3;
+}
+
+
+class A{
+    float []f[] = new float[5][];
+    public String show(D d){return ("AD");}
+    public String show(A a){return ("AA");}
+}
+
+class B extends A{
+    public String show(B b){return ("BB");}
+    @Override
+    public String show(A a){return ("BA");}
+}
+
+class C extends B{}
+
+class D extends B{}
+
+class Test100{
+
+    @Test
+    public void TestBox(){
+        Integer i = 42;
+        Long l = 42L;
+        Double d = 42.0;
+
+        // 下面两个报错
+        // System.out.println((i == l));
+        // System.out.println((i == d));
+        // 下面是false 无法自动转换
+        System.out.println(i.equals(d));
+
+        System.out.println(d.equals(l));
+    }
+
+
+    public static void main(String[] args) {
+        A a = new A();
+        B b = new B();
+        C c = new C();
+        D d = new D();
+        System.out.println(a.show(b)+"-"+a.show(c)+"-"+a.show(d)+"-"+b.show(a)+"-"+b.show(c)+"-"+b.show(d));
+    }
 }

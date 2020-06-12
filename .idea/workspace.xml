@@ -1,7 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db2f70c2-ea63-4864-8c61-987afc0436a5" name="Default Changelist" comment="" />
+    <list default="true" id="db2f70c2-ea63-4864-8c61-987afc0436a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/DesignMode/ObservationPattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/DesignMode/TemplateMode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/InputOutputStream/BitmapGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/Test/ByteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/Test/IntTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offer/src/main/java/com/leetcode/最长等差数列_1027/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offer/src/main/java/com/leetcode_offer/两个链表的第一个公共节点_52/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offer/src/main/java/com/leetcode_offer/二叉搜索树的第k大节点_54/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offer/src/main/java/com/leetcode_offer/二维数组中的查找_04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offer/src/main/java/com/leetcode_offer/到n整数中1出现的次数_43/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offer/src/main/java/com/leetcode_offer/最长不含重复字符的子字符串_48/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/DesignMode/ProxyMode/CglibDynamicProxyMode/CusInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/DesignMode/ProxyMode/CglibDynamicProxyMode/CusInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/DesignMode/TemplateMode/CarGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/DesignMode/TemplateMode/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/DesignMode/TemplateMode/MainGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/DesignMode/TemplateMode/SuperMario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/Test/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/Test/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/Test/ExtendsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/Test/ExtendsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/Test/InerClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/Test/InerClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/Test/JavaTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/Test/JavaTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/Test/JavaTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/Test/JavaTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/Test/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/Test/ListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/Test/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/Test/MapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/Test/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/Test/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/Test/TryFinally.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/src/main/java/com/Test/TryFinally.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/target/classes/com/DesignMode/ProxyMode/CglibDynamicProxyMode/CusInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/target/classes/com/DesignMode/ProxyMode/CglibDynamicProxyMode/CusInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/Apple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/ExtendsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/ExtendsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/It.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/It.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/JavaTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/JavaTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/JavaTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/JavaTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/ListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/ListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/MapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/MapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/Normal.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/Normal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/OBJ.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/OBJ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/Orange.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/Orange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/StringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/StringTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/TestA.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/TestA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/TryFinally.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-javase/target/classes/com/Test/TryFinally.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-juc(multiple-thread)/src/main/java/com/kyriexu/Lock8/Lock1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-juc(multiple-thread)/src/main/java/com/kyriexu/Lock8/Lock1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-juc(multiple-thread)/src/main/java/com/kyriexu/VolatileDemo/VolatileDTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-juc(multiple-thread)/src/main/java/com/kyriexu/VolatileDemo/VolatileDTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-juc(multiple-thread)/src/main/java/com/kyriexu/threadlocal/ThreadLocalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-juc(multiple-thread)/src/main/java/com/kyriexu/threadlocal/ThreadLocalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-learn-juc(multiple-thread)/target/classes/com/kyriexu/threadlocal/ThreadLocalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-learn-juc(multiple-thread)/target/classes/com/kyriexu/threadlocal/ThreadLocalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offer/src/main/java/com/newcode_offer/整数中1出现的次数_从1到n整数中1出现的次数/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/offer/src/main/java/com/newcode_offer/整数中1出现的次数_从1到n整数中1出现的次数/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offer/target/classes/com/newcode_offer/把数组排成最小的数/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/offer/target/classes/com/newcode_offer/把数组排成最小的数/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offer/target/classes/com/newcode_offer/把数组排成最小的数/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/offer/target/classes/com/newcode_offer/把数组排成最小的数/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offer/target/classes/com/newcode_offer/整数中1出现的次数_从1到n整数中1出现的次数/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/offer/target/classes/com/newcode_offer/整数中1出现的次数_从1到n整数中1出现的次数/Main.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +84,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -48,6 +104,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1Y0Q4K8FZN9YJZDNUPPWsw9FBAW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -55,15 +114,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../HrManage" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -74,52 +134,13 @@
       <recent name="E:\WorkSpace\java-learn" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode_offer.数组中数字出现的次数_56.Main" />
-      <module name="offer" />
+      <option name="MAIN_CLASS_NAME" value="com.DesignMode.TemplateMode.Main" />
+      <module name="java-learn-javase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode_offer.数组中数字出现的次数_56.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.newcode_offer.把数组排成最小的数.Main" />
-      <module name="offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.newcode_offer.把数组排成最小的数.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.最长回文子串_5.Main" />
-      <module name="offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.最长回文子串_5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode_offer.滑动窗口最大值_59.Main" />
-      <module name="offer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode_offer.滑动窗口最大值_59.*" />
+          <option name="PATTERN" value="com.DesignMode.TemplateMode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +149,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode_offer.把字符串转换成整数_67.Main" />
-      <module name="offer" />
+      <option name="MAIN_CLASS_NAME" value="com.DesignMode.ObservationPattern.Main" />
+      <module name="java-learn-javase" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode_offer.把字符串转换成整数_67.*" />
+          <option name="PATTERN" value="com.DesignMode.ObservationPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,18 +161,69 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringTest.Test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-learn-javase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.Test.StringTest" />
+      <option name="METHOD_NAME" value="Test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest.TestLo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-learn-javase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.Test.StringTest" />
+      <option name="METHOD_NAME" value="TestLo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest.TestS1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-learn-javase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.Test.StringTest" />
+      <option name="METHOD_NAME" value="TestS1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.StringTest.TestLo" />
+        <item itemvalue="JUnit.StringTest.Test01" />
+        <item itemvalue="JUnit.StringTest.TestS1" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
   <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value=",SHOW_NON_PUBLIC" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_NON_PUBLIC,SHOW_FIELDS,SHOW_LAMBDA" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -242,6 +314,26 @@
       <workItem from="1588813494034" duration="792000" />
       <workItem from="1588901131928" duration="3013000" />
       <workItem from="1589011416849" duration="29000" />
+      <workItem from="1589011831868" duration="1561000" />
+      <workItem from="1589170033752" duration="2717000" />
+      <workItem from="1589684832929" duration="1829000" />
+      <workItem from="1590282989993" duration="2522000" />
+      <workItem from="1590289061809" duration="1551000" />
+      <workItem from="1590309780581" duration="3222000" />
+      <workItem from="1590491412214" duration="275000" />
+      <workItem from="1590737184151" duration="4956000" />
+      <workItem from="1591162103973" duration="1950000" />
+      <workItem from="1591258800148" duration="344000" />
+      <workItem from="1591259355662" duration="1985000" />
+      <workItem from="1591265085595" duration="9152000" />
+      <workItem from="1591319176397" duration="2300000" />
+      <workItem from="1591328455293" duration="4515000" />
+      <workItem from="1591413769822" duration="1093000" />
+      <workItem from="1591757099120" duration="1369000" />
+      <workItem from="1591758598039" duration="77000" />
+      <workItem from="1591759302750" duration="1177000" />
+      <workItem from="1591761680141" duration="1877000" />
+      <workItem from="1591931618718" duration="3194000" />
     </task>
     <servers />
   </component>
@@ -282,19 +374,15 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="223" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1584335990166" />
-    <state x="510" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582274052619">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="510" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1582274052619" />
     <state x="521" y="273" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1587689577787">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="521" y="273" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.864@0.0.1536.864" timestamp="1587689577787" />
-    <state x="611" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1584321617415">
+    <state x="611" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1591933279725">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="611" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1583936455056" />
-    <state x="611" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1584321617415" />
+    <state x="611" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1591933279725" />
     <state x="449" y="161" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584251732091">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -310,46 +398,45 @@
     <state x="499" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583907258609">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582202968679" />
     <state x="499" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1583907258609" />
+    <state x="277" y="24" key="CommitChangelistDialog2" timestamp="1591937072800">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="24" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1591937072800" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1586327975340">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1586327975340" />
-    <state x="888" y="161" key="FileChooserDialogImpl" timestamp="1588308805023">
+    <state x="888" y="161" key="FileChooserDialogImpl" timestamp="1591324104052">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586441944798" />
-    <state x="888" y="161" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1588308805023" />
-    <state width="1537" height="317" key="GridCell.Tab.0.bottom" timestamp="1588904499246">
+    <state x="888" y="161" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1591324104052" />
+    <state width="1537" height="317" key="GridCell.Tab.0.bottom" timestamp="1591937090977">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1537" height="264" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586516239911" />
-    <state width="1537" height="317" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1588904499246" />
-    <state width="1537" height="317" key="GridCell.Tab.0.center" timestamp="1588904499246">
+    <state width="1537" height="317" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591937090977" />
+    <state width="1537" height="317" key="GridCell.Tab.0.center" timestamp="1591937090977">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1537" height="264" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586516239911" />
-    <state width="1537" height="317" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1588904499246" />
-    <state width="1537" height="317" key="GridCell.Tab.0.left" timestamp="1588904499246">
+    <state width="1537" height="317" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1591937090977" />
+    <state width="1537" height="317" key="GridCell.Tab.0.left" timestamp="1591937090977">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1537" height="264" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586516239911" />
-    <state width="1537" height="317" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1588904499246" />
-    <state width="1537" height="317" key="GridCell.Tab.0.right" timestamp="1588904499246">
+    <state width="1537" height="317" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1591937090977" />
+    <state width="1537" height="317" key="GridCell.Tab.0.right" timestamp="1591937090977">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1537" height="264" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586516239911" />
-    <state width="1537" height="317" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1588904499246" />
-    <state x="166" y="130" width="1164" height="710" key="SettingsEditor" timestamp="1588220622573">
+    <state width="1537" height="317" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1591937090977" />
+    <state x="291" y="13" width="1164" height="710" key="SettingsEditor" timestamp="1591757256673">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="295" y="50" width="1164" height="710" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586493563848" />
-    <state x="166" y="130" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1588220622573" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1582267103682">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1582267103682" />
+    <state x="291" y="13" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1591757256673" />
     <state x="524" y="279" key="cloudConfig.PluginsDialog" timestamp="1587689614428">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -362,29 +449,33 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="744" height="862" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.0.1536.864@0.0.1536.864" timestamp="1584435077179" />
+    <state x="554" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591937085022">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="554" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1591937085022" />
     <state x="93" y="93" width="1350" height="638" key="dock-window-1" timestamp="1583667217045">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1583667217045" />
-    <state width="406" height="205" key="documentation.popup.size" timestamp="1587347294858">
+    <state width="406" height="205" key="documentation.popup.size" timestamp="1591757547209">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="406" height="205" key="documentation.popup.size/0.0.1536.864@0.0.1536.864" timestamp="1587347294858" />
+    <state width="406" height="205" key="documentation.popup.size/0.0.1536.864@0.0.1536.864" timestamp="1591757547209" />
     <state x="183" y="54" key="new project wizard" timestamp="1586077139858">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="130" y="171" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1583814832610" />
     <state x="183" y="54" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1586077139858" />
-    <state x="425" y="196" width="672" height="677" key="run.anything.popup" timestamp="1588469873819">
+    <state x="425" y="196" width="672" height="677" key="run.anything.popup" timestamp="1591267699029">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1586493697849" />
-    <state x="425" y="196" width="672" height="677" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1588469873819" />
-    <state x="431" y="152" width="672" height="556" key="search.everywhere.popup" timestamp="1588385944424">
+    <state x="425" y="196" width="672" height="677" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1591267699029" />
+    <state x="431" y="152" width="672" height="556" key="search.everywhere.popup" timestamp="1591932678519">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586504927069" />
-    <state x="431" y="152" width="672" height="556" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1588385944424" />
+    <state x="431" y="152" width="672" height="556" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1591932678519" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

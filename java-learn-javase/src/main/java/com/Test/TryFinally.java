@@ -1,5 +1,7 @@
 package com.Test;
 
+import org.junit.Test;
+
 /**
  * @author KyrieXu
  * @date 2020/2/16 15:22
@@ -23,4 +25,10 @@ public class TryFinally {
             System.out.println("finally"+i);
         }
     }
+
+    @Test
+    public void TestFinal(){
+
+    }
+
 }

@@ -1,5 +1,7 @@
 package com.Test;
 
+import org.junit.Test;
+
 /**
  * @author KyrieXu
  * @date 2020/1/22 14:08
@@ -12,6 +14,13 @@ public class JavaTest01 {
         System.out.println(apple);
         orange.setName(12222);
         System.out.println(apple);
+    }
+
+    @Test
+    public void TestInc(){
+        int i = 0;
+        i = i++ + i;
+        System.out.println("I =" +i);
     }
 }
 

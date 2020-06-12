@@ -6,7 +6,7 @@ package com.newcode_offer.整数中1出现的次数_从1到n整数中1出现的�
  **/
 public class Main {
     public static void main(String[] args) {
-        System.out.println(NumberOf1Between1AndN_Solution(13));
+        System.out.println(NumberOf1Between1AndN_Solution(824883294));
     }
 
     public static int NumberOf1Between1AndN_Solution(int n) {

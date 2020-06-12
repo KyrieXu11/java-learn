@@ -15,8 +15,8 @@ public class Lock1 {
     @SneakyThrows
     public static void main(String[] args) {
         Phone phone=new Phone();
-//        这个方式原来是使用lambda表达式的，idea自动简写成这样了，应该是jdk11的新特性
-//        因为phone调用了Msg，所以被锁的是phone对象，A线程先拿到了phone的锁，所以先执行
+       // 这个方式原来是使用lambda表达式的，idea自动简写成这样了，应该是jdk11的新特性
+       // 因为phone调用了Msg，所以被锁的是phone对象，A线程先拿到了phone的锁，所以先执行
         new Thread(phone::Msg,"A").start();
         TimeUnit.SECONDS.sleep(1);
         new Thread(phone::Call,"B").start();
